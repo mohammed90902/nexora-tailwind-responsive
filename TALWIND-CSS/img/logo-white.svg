@@ -1,0 +1,17 @@
+<svg width="220" height="60" viewBox="0 0 220 60" fill="none"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Icon -->
+  <circle cx="30" cy="30" r="22" fill="white"/>
+  <path d="M22 38L30 18L38 38H34L30 28L26 38H22Z"
+        fill="#0f172a"/>
+
+  <!-- Text -->
+  <text x="70" y="38"
+        font-family="Poppins, Arial, sans-serif"
+        font-size="26"
+        font-weight="600"
+        fill="white">
+    Nexora
+  </text>
+</svg>
